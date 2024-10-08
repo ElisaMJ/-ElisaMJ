@@ -1,2 +1,3 @@
-# -ElisaMJ
-This is my personal repo for README
+# HEY! I'm Elisa Matos
+
+I am a Software Robotics student at the Rey Juan Carlos University in the Fuenlabrada Faculty (EIF)
