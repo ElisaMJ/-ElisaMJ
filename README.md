@@ -21,4 +21,4 @@ I have used it but very little:
 - [LinkedIn](https://www.linkedin.com/in/elisa-jazm%C3%ADn/)
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Elisa%20Matos%20👨‍💻%20Personal%20Repo&width=900&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Elisa%20Matos%20👨‍💻%20Personal%20Repo&width=900&height=90)](https://github.com/Akshay090/svg-banners)
